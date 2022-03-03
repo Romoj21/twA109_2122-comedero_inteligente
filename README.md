@@ -1,6 +1,9 @@
 # [Comedero Inteligente]
+Este proyecto trata de crear un comedero inteligente, que distribuya la comida en un determinado espacio horario, para la correcta alimentación de los animales domésticos.
+El mecanismo a utilizar constará de placas de presión, cables, un temporizador, sensores de volumen y puertas lógicas NOT.
+Lo primero q hará el comdero será comprobar que hora es, si está en el momento asignado para soltar la comida comprobará que la placa de presión no esté activada:
+Si la placa está activada no echará comida, ya que el comedero está lleno. Por el contario, si la placa no está activada rellenara el recipiente hasta que dicha placa se active
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
 
 
 ## Integrantes del equipo
